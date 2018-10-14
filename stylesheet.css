@@ -1,0 +1,33 @@
+a {
+  color: black;
+  font: courier;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+h1 {
+color: black;
+font: courier;
+
+}
+h2 {
+color: black;
+font: courier;
+
+}
+h3 {
+color: black;
+font: courier;
+
+}
+h4 {
+color: black;
+font: courier;
+
+}
+h5 {
+color: black;
+font: courier;
+
+}
